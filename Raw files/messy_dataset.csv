@@ -1,0 +1,23 @@
+ID,Name,Age,Salary,Join_Date,Department
+1,John Doe,25.0,"$50,000",2022-01-10,Finance
+2,Jane Smith,30.0,"$60,000",10/02/2021,HR
+3,Mike Johnson,,70000,"March 5, 2020",IT
+4,Emily Davis,40.0,"$80,000",2019/12/15,Marketing
+5,Robert Brown,35.0,"90,000",01-05-2018,Sales
+6,Alice White,28.0,55000,2021-07-20,Finance
+7,David Miller,33.0,62000,2018/06/10,HR
+8,Sarah Wilson,,$72000,"September 8, 2019",IT
+9,James Anderson,45.0,81000,2017-11-25,Marketing
+10,Linda Thomas,50.0,"$95,000",2020-03-30,Sales
+11,William Moore,27.0,$57000,2021-08-15,Finance
+12,Emma Taylor,32.0,64000,06/12/2016,HR
+13,Daniel Lee,38.0,$73000,"April 1, 2015",IT
+14,Olivia Harris,29.0,85000,2014-09-09,Marketing
+15,Matthew Clark,31.0,92000,2013-05-05,Sales
+16,Sophia Lewis,41.0,58000,12/10/2020,Finance
+17,Ethan Walker,36.0,$66000,2019-02-14,HR
+18,Isabella Hall,39.0,75000,07-07-2018,IT
+19,Mason Allen,34.0,$87000,"June 21, 2022",Marketing
+20,Ava Young,,94000,2015/11/11,Sales
+5,john doe,25.0,"$50,000",2022-01-10,Finance
+10,JANE SMITH,30.0,"$60,000",10/02/2021,HR
